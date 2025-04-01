@@ -1,11 +1,11 @@
 # Onedrive
 
 ## Ciclo 5
-[Análisis y Diseño de Algoritmos](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/ErZfureyTqZMt5ooSOu3lcQB4UPcZ9wXPxjUap4ImDCXHA?e=PvG7Qc)
-Computacion centrada en Redes
-Teoria de Automatas, Lenguajes y Computacion
-Ingenieria de Software
-Analisis y Modelamiento Numerico 1
+- [Análisis y Diseño de Algoritmos](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/ErZfureyTqZMt5ooSOu3lcQB4UPcZ9wXPxjUap4ImDCXHA?e=PvG7Qc)
+- Computacion centrada en Redes
+- Teoria de Automatas, Lenguajes y Computacion
+- Ingenieria de Software
+- Analisis y Modelamiento Numerico 1
 ## Ciclo 6  
 - Realidad Nacional  
 - Ética y Filosofía  
