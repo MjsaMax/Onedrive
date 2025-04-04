@@ -2,7 +2,7 @@
 
 ## Ciclo 5
 - [Análisis y Diseño de Algoritmos](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/ErZfureyTqZMt5ooSOu3lcQB4UPcZ9wXPxjUap4ImDCXHA?e=PvG7Qc)
-- [Computacion centrada en Redes](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1YnQAAAAABYmiW1CWIqKK68ODk7NB23A?e=l1pdBJ)
+- [Computacion centrada en Redes](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1XnQAAAAABxNtC_QjDCQizeX3Zd7ujHw?e=HbByrv)
 - [Teoria de Automatas, Lenguajes y Computacion](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1YnQAAAAABYmiW1CWIqKK68ODk7NB23A?e=l1pdBJ)
 - [Ingenieria de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1anQAAAAABzwyfmQGqd8ktb6SC-sYNIw?e=2NBI7g)
 - [Analisis y Modelamiento Numerico 1](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP2-fAAAAAABGg1xlbVUPL8BHiW4IK5xEw?e=c7jj5b)
