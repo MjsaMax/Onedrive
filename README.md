@@ -5,7 +5,7 @@
 - [Computacion centrada en Redes](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1XnQAAAAABxNtC_QjDCQizeX3Zd7ujHw?e=HbByrv)
 - [Teoria de Automatas, Lenguajes y Computacion](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1YnQAAAAABYmiW1CWIqKK68ODk7NB23A?e=l1pdBJ)
 - [Ingenieria de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1anQAAAAABzwyfmQGqd8ktb6SC-sYNIw?e=2NBI7g)
-- [Analisis y Modelamiento Numerico 1](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP2-fAAAAAABGg1xlbVUPL8BHiW4IK5xEw?e=c7jj5b)
+- [Analisis y Modelamiento Numerico 1](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EkK8lxMdJn5CjPDuAxPwlQABZKesenxsYOT2sKRcYtA00Q?e=p53sTe)
 ## Ciclo 6  
 - [Realidad Nacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1bnQAAAAABxdUqjMvOyrvKzVwioKozYQ?e=aaSpZB)  
 - [Ética y Filosofía](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1cnQAAAAABRJ85nb3ZieiPbqZ0hyGlKg?e=4cJd46)  
