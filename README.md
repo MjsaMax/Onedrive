@@ -40,3 +40,4 @@
 - Ayudantía Académica  
 
 ## [Electivos](Electivos.md)
+- [Topicos de Ciencia de la Computación III](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EhOW8OYAtMZNqfPP0JNhxFMBcKZP26JaQ0-2K3Z4tv6Hpw?e=6RHpus)
