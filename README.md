@@ -9,7 +9,7 @@
 ## Ciclo 6  
 - [Realidad Nacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1bnQAAAAABxdUqjMvOyrvKzVwioKozYQ?e=aaSpZB)---------------------[MIT]()  
 - [Ética y Filosofía](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1cnQAAAAABRJ85nb3ZieiPbqZ0hyGlKg?e=4cJd46)---------------------[MIT]()  
-- [Administración de Redes](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1dnQAAAAABXCGTBYN5h7L1hxryMhONgQ?e=z5r2tt)---------------------[MIT]()  
+- [Administración de Redes](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EotGXlhcLR9Hvh_KfP6C6ZkBOeo22vtTTHFXVv-_myawGw?e=gBiBsX)---------------------[MIT]()  
 - [Matemática Computacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1enQAAAAABKXJPBbU-s3kLpcC4XUJkCA?e=ituIiK)---------------------[MIT]()  
 - [Programación Paralela](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1fnQAAAAABD9Y68b7kJRYHrkLEH7kjuA?e=aFqOsT)---------------------[MIT]()  
 - [Desarrollo de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1gnQAAAAABKHgzCVifMridZIBrGsv_Tw?e=RJWeet)---------------------[MIT]()  
