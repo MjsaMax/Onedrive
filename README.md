@@ -7,15 +7,15 @@
 - [Ingenieria de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1anQAAAAABzwyfmQGqd8ktb6SC-sYNIw?e=2NBI7g)---------------------[MIT](https://ocw.mit.edu/courses/6-170-laboratory-in-software-engineering-fall-2005/)
 - [Analisis y Modelamiento Numerico 1](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EkK8lxMdJn5CjPDuAxPwlQABZKesenxsYOT2sKRcYtA00Q?e=6aI8ML)---------------------[MIT](https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/)
 ## Ciclo 6  
-- [Realidad Nacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1bnQAAAAABxdUqjMvOyrvKzVwioKozYQ?e=aaSpZB)---------------------[MIT]()  
-- [Ética y Filosofía](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1cnQAAAAABRJ85nb3ZieiPbqZ0hyGlKg?e=4cJd46)---------------------[MIT]()  
-- [Administración de Redes](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EotGXlhcLR9Hvh_KfP6C6ZkBOeo22vtTTHFXVv-_myawGw?e=gBiBsX)---------------------[MIT]()  
-- [Matemática Computacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1enQAAAAABKXJPBbU-s3kLpcC4XUJkCA?e=ituIiK)---------------------[MIT]()  
-- [Programación Paralela](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1fnQAAAAABD9Y68b7kJRYHrkLEH7kjuA?e=aFqOsT)---------------------[MIT]()  
-- [Desarrollo de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1gnQAAAAABKHgzCVifMridZIBrGsv_Tw?e=RJWeet)---------------------[MIT]()  
+- [Realidad Nacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1bnQAAAAABxdUqjMvOyrvKzVwioKozYQ?e=aaSpZB) 
+- [Ética y Filosofía](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1cnQAAAAABRJ85nb3ZieiPbqZ0hyGlKg?e=4cJd46)  
+- [Administración de Redes](https://unipe-my.sharepoint.com/:f:/g/personal/jesus_santacruz_b_uni_pe/EotGXlhcLR9Hvh_KfP6C6ZkBOeo22vtTTHFXVv-_myawGw?e=gBiBsX)
+- [Matemática Computacional](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1enQAAAAABKXJPBbU-s3kLpcC4XUJkCA?e=ituIiK)  
+- [Programación Paralela](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1fnQAAAAABD9Y68b7kJRYHrkLEH7kjuA?e=aFqOsT)  
+- [Desarrollo de Software](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1gnQAAAAABKHgzCVifMridZIBrGsv_Tw?e=RJWeet) 
 
 ## Ciclo 7  
-- [Metodología de la Investigación](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1mnQAAAAAB7mCc_5_HRFtHlJxO7d8qSw?e=0QBcAl)---------------------[MIT]()  
+- [Metodología de la Investigación](https://1drv.ms/f/c/fdb226ef3c2e079a/EpoHLjzvJrIggP1mnQAAAAAB7mCc_5_HRFtHlJxO7d8qSw?e=0QBcAl)
 - Seguridad en Sistemas Informáticos  
 - Inteligencia Artificial  
 - Computación Gráfica  
